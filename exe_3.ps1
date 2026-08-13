@@ -1,3 +1,4 @@
+#listar o maior processo e o usu da memoria 
 $processos = Get-Process
 $lista = @()
 
